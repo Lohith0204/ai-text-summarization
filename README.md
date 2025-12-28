@@ -3,7 +3,7 @@
 ## Live Demo
 Try out the deployed application here:
 
-🚀 **Streamlit App** → (paste the deployed link here)
+🚀 **Streamlit App** → https://ai-text-summarization-5om7ljglhdcpuu7yz5zgmz.streamlit.app/
 
 ## Overview
 This project is a simple AI-based text summarization application that converts long pieces of text into concise, easy-to-understand summaries using Natural Language Processing (NLP). The application provides a clean web interface where users can paste or upload text and instantly receive a summarized version.

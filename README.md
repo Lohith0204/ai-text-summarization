@@ -27,6 +27,7 @@ AI-Speech-Recognition/
 ├── app.py # Streamlit UI and application logic
 ├── requirements.txt # Project dependencies
 ├── README.md # Project documentation
+├── LICENSE
 │
 ├── ai_engine/
 │   ├── init.py
